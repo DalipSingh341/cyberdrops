@@ -71,7 +71,7 @@ const Partners = () => {
               </Row>
             </Col>
           </Row> */}
-            <div className="d-flex flex-column flex-md-row align-items-center  py-md-5 gap-4 ">
+            <div className="d-flex flex-column justify-content-center flex-md-row align-items-center  py-md-5 gap-4 ">
               <div className="d-flex flex-column flex-lg-row gap-4 py-md-5 ">
                 <div
                   data-aos="fade-down"

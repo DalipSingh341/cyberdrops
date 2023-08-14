@@ -47,7 +47,7 @@ const RoadMap8 = () => {
                   src={road1}
                   alt="road1"
                 />
-                <div className="march_left_line march_circle position-relative ms-5">
+                <div className="march_left_line march_circle position-relative ms-5 ps-5 ps-md-0">
                   <h2 className="ff_Lato fs_24 fw_600 fc_white mb-3">
                     March 2022
                   </h2>
@@ -64,7 +64,7 @@ const RoadMap8 = () => {
                   src={road2}
                   alt="road2"
                 />
-                <div className="march_left_line2 march_circle2 position-relative text-end me-5">
+                <div className="march_left_line2 march_circle2 position-relative text-md-end me-md-5 ps-5 sp-md-0">
                   <h2 className="ff_Lato fs_24 fw_600 fc_white mb-3">
                     March 2022
                   </h2>
@@ -85,7 +85,7 @@ const RoadMap8 = () => {
                   src={road3}
                   alt="road3"
                 />
-                <div className="march_left_line3 march_circle3 position-relative ms-5">
+                <div className="march_left_line3 march_circle3 position-relative ms-5 ps-5 ps-md-0">
                   <h2 className="ff_Lato fs_24 fw_600 fc_white mb-3">
                     March 2022
                   </h2>
@@ -102,7 +102,7 @@ const RoadMap8 = () => {
                   src={road4}
                   alt="road4"
                 />
-                <div className="march_left_line4 march_circle4 position-relative text-end me-5">
+                <div className="march_left_line4 march_circle4 position-relative text-md-end me-md-5 ps-5 sp-md-0">
                   <h2 className="ff_Lato fs_24 fw_600 fc_white mb-3">
                     April 2022
                   </h2>
@@ -122,7 +122,7 @@ const RoadMap8 = () => {
                   src={road5}
                   alt="road5"
                 />
-                <div className="march_left_line5 march_circle5 position-relative ms-5">
+                <div className="march_left_line5 march_circle5 position-relative ms-5 ps-5 ps-md-0">
                   <h2 className="ff_Lato fs_24 fw_600 fc_white mb-3">
                     June 2022
                   </h2>
@@ -139,7 +139,7 @@ const RoadMap8 = () => {
                   src={road6}
                   alt="road6"
                 />
-                <div className="march_left_line2 march_circle2 position-relative text-end me-5">
+                <div className="march_left_line2 march_circle2 position-relative text-md-end me-md-5 ps-5 sp-md-0">
                   <h2 className="ff_Lato fs_24 fw_600 fc_white mb-3">
                     Sometime in Q3
                   </h2>
@@ -159,7 +159,7 @@ const RoadMap8 = () => {
                   src={road7}
                   alt="road7"
                 />
-                <div className="march_left_line6 march_circle6 position-relative ms-5">
+                <div className="march_left_line6 march_circle6 position-relative ms-5 ps-5 ps-md-0">
                   <h2 className="ff_Lato fs_24 fw_600 fc_white mb-3">
                     Sometime in Q3
                   </h2>
@@ -176,7 +176,7 @@ const RoadMap8 = () => {
                   src={road8}
                   alt="road8"
                 />
-                <div className="march_left_line7 march_circle7 position-relative text-end me-5">
+                <div className="march_left_line7 march_circle7 position-relative text-md-end me-md-5 ps-5 sp-md-0">
                   <h2 className="ff_Lato fs_24 fw_600 fc_white mb-3">
                     Sometime in Q4
                   </h2>
