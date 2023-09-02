@@ -6,10 +6,11 @@ const MyPreloader = () => {
   setTimeout(() => {
     document.getElementById("none").classList.add("d-none");
     document.body.style.overflow = "unset";
-  }, 2000);
+  }, 3000);
+  
   return (
     <section
-      className="perloaderback z_index_2000 position-relative "
+      className="perloaderback z_index_2000 position-relative"
       id="none"
     >
       <div className="none">

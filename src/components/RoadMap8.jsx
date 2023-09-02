@@ -1,8 +1,8 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
-import umb_pos1 from "../assets/images/png/umbrella_blur3.png";
-import umb_pos2 from "../assets/images/png/umbrella_blur4.png";
-import umb_pos3 from "../assets/images/png/umbrella_blur5.png";
+import umb_pos1 from "../assets/images/webp/umbrella_blur3.webp";
+import umb_pos2 from "../assets/images/webp/umbrella_blur4.webp";
+import umb_pos3 from "../assets/images/webp/umbrella_blur5.webp";
 import road1 from "../assets/images/svg/road_umb1.svg";
 import road2 from "../assets/images/svg/road_umb2.svg";
 import road3 from "../assets/images/svg/road_umb3.svg";

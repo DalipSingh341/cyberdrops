@@ -1,8 +1,8 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import Accordion from "react-bootstrap/Accordion";
-import blur1 from "../assets/images/png/blur_image.png";
-import umb_pos1 from "../assets/images/png/umbrella_blur6.png";
+import blur1 from "../assets/images/webp/blur_image.webp";
+import umb_pos1 from "../assets/images/webp/umbrella_blur6.webp";
 
 
 const Egastus9 = () => {

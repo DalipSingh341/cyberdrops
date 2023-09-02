@@ -427,6 +427,9 @@ body {
 .mint_card1:hover .mint_circle1 {
   background-color: white;
 }
+.z_index_10{
+  z-index: 10 !important;
+}
 .mint_text1,
 .mint_circle1 {
   transition: all 100ms ease-in-out;
@@ -562,7 +565,7 @@ body {
 /* Meet-7 */
 /* road-map-8 */
 .timeliner:before {
-  content: url("./assets//images//png//gap_line_road.png");
+  content: url("./assets//images//webp//gap_line_road.webp");
   width: 1px;
   height: 100%;
   position: absolute;
@@ -570,7 +573,7 @@ body {
   left: 50%;
 }
 .roadmap_bg {
-  background-image: url("./assets//images//png/timeliner_bg_image.png");
+  background-image: url("./assets//images//webp/timeliner_bg_image.webp");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: center;
@@ -578,7 +581,7 @@ body {
   min-height: 100vh;
 }
 .march_left_line:before {
-  content: url("./assets//images//png/vertical_line.png");
+  content: url("./assets//images//webp/vertical_line.webp");
   width: 130px;
   height: 1px;
   /* border: 1px dashed white; */
@@ -588,7 +591,7 @@ body {
   left: -73%;
 }
 .march_left_line2:before {
-  content: url("./assets//images//png/vertical_line.png");
+  content: url("./assets//images//webp/vertical_line.webp");
   width: 130px;
   height: 1px;
   /* border: 1px dashed white; */
@@ -598,7 +601,7 @@ body {
   right: -72%;
 }
 .march_left_line3:before {
-  content: url("./assets//images//png/vertical_line.png");
+  content: url("./assets//images//webp/vertical_line.webp");
   width: 130px;
   height: 1px;
   /* border: 1px dashed white; */
@@ -608,7 +611,7 @@ body {
   left: -150%;
 }
 .march_left_line4:before {
-  content: url("./assets//images//png/vertical_line.png");
+  content: url("./assets//images//webp/vertical_line.webp");
   width: 130px;
   height: 1px;
   /* border: 1px dashed white; */
@@ -618,7 +621,7 @@ body {
   left: 180%;
 }
 .march_left_line5:before {
-  content: url("./assets//images//png/vertical_line.png");
+  content: url("./assets//images//webp/vertical_line.webp");
   width: 130px;
   height: 1px;
   /* border: 1px dashed white; */
@@ -628,7 +631,7 @@ body {
   left: -200%;
 }
 .march_left_line6:before {
-  content: url("./assets//images//png/vertical_line.png");
+  content: url("./assets//images//webp/vertical_line.webp");
   width: 130px;
   height: 1px;
   /* border: 1px dashed white; */
@@ -638,7 +641,7 @@ body {
   left: -110%;
 }
 .march_left_line7:before {
-  content: url("./assets//images//png/vertical_line.png");
+  content: url("./assets//images//webp/vertical_line.webp");
   width: 130px;
   height: 1px;
   /* border: 1px dashed white; */
@@ -890,7 +893,7 @@ body {
   }
   .partners_bg {
     background-color: black;
-    background-image: url("./assets//images//png/Partners_bg_image.png");
+    background-image: url("./assets//images//webp/Partners_bg_image.webp");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 100%;

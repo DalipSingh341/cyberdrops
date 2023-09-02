@@ -2,9 +2,9 @@ import React from 'react'
 import { Col, Container, Row } from 'react-bootstrap'
 import our1 from "../assets/images/png/our1.png"
 import our2 from "../assets/images/png/our2.png"
-import our_combo from "../assets/images/png/our_combo.png"
+import our_combo from "../assets/images/webp/our_combo.webp"
 import { Link } from 'react-router-dom'
-import blur1 from "../assets/images/png/blur_image.png";
+import blur1 from "../assets/images/webp/blur_image.webp";
 
 const Our2 = () => {
   return (

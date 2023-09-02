@@ -1,11 +1,11 @@
 import React from 'react'
 import { Col, Container, Row } from 'react-bootstrap'
-import fourUmb1 from "../assets/images/png/fourUmb1.png"
-import fourUmb2 from "../assets/images/png/fourUmb2.png"
-import fourUmb3 from "../assets/images/png/fourUmb3.png"
-import fourUmb4 from "../assets/images/png/fourUmb4.png"
-import blur1 from "../assets/images/png/blur_image.png";
-import umb_pos1 from "../assets/images/png/umbrella_blur1.png";
+import fourUmb1 from "../assets/images/webp/fourUmb1.webp"
+import fourUmb2 from "../assets/images/webp/fourUmb2.webp"
+import fourUmb3 from "../assets/images/webp/fourUmb3.webp"
+import fourUmb4 from "../assets/images/webp/fourUmb4.webp"
+import blur1 from "../assets/images/webp/blur_image.webp";
+import umb_pos1 from "../assets/images/webp/umbrella_blur1.webp";
 
 
 const FourEmbrella5 = () => {

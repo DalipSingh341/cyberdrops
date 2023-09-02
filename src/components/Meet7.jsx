@@ -1,12 +1,12 @@
 import React from "react";
 import Slider from "react-slick";
 import { Col, Container, Row } from 'react-bootstrap'
-import varun1 from "../assets/images/png/varun1.png"
-import varun2 from "../assets/images/png/varun2.png"
+import varun1 from "../assets/images/webp/varun1.webp"
+import varun2 from "../assets/images/webp/varun2.webp"
 import { Discord2, M2, Twitter2 } from './Icons'
 import { Link } from 'react-router-dom'
-import blur1 from "../assets/images/png/blur_image.png";
-import umb_pos1 from "../assets/images/png/umbrella_blur2.png";
+import blur1 from "../assets/images/webp/blur_image.webp";
+import umb_pos1 from "../assets/images/webp/umbrella_blur2.webp";
 
 
 

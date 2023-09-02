@@ -4,7 +4,7 @@ import play_bit1 from "../assets/images/svg/play_bit1.svg"
 import play_bit2 from "../assets/images/svg/play_bit2.svg"
 import play_bit3 from "../assets/images/svg/play_bit3.svg"
 import play_bit4 from "../assets/images/svg/play_bit4.svg"
-import blur1 from "../assets/images/png/blur_image.png";
+import blur1 from "../assets/images/webp/blur_image.webp";
 
 
 const Partners = () => {

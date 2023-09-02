@@ -1,9 +1,9 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
-import algo1 from "../assets/images/png/algo1.png";
-import algo2 from "../assets/images/png/algo2.png";
-import algo3 from "../assets/images/png/algo3.png";
-import blur1 from "../assets/images/png/blur_image.png";
+import algo1 from "../assets/images/webp/algo1.webp";
+import algo2 from "../assets/images/webp/algo2.webp";
+import algo3 from "../assets/images/webp/algo3.webp";
+import blur1 from "../assets/images/webp/blur_image.webp";
 
 
 const Algo4 = () => {

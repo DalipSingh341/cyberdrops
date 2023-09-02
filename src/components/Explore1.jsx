@@ -1,8 +1,8 @@
 import React from 'react'
 import { Col, Container, Row } from 'react-bootstrap'
 import { Link } from 'react-router-dom';
-import umbrella1 from "../assets/images/png/yellow_wihte_umbrella.png"
-import blur1 from "../assets/images/png/blur_image.png"
+import umbrella1 from "../assets/images/webp/yellow_wihte_umbrella.webp"
+import blur1 from "../assets/images/webp/blur_image.webp"
 
 const Explore1 = () => {
   return (

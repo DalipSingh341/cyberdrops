@@ -14,7 +14,7 @@ const Mint6 = () => {
             data-aos-duration="1000"
             md={6}
             lg={3}
-            className="my-3"
+            className="my-3 z_index_10"
           >
             <div className="mint_card1 d-flex flex-column align--items-center  mx-auto">
               <div className="mint_circle1 d-flex align-items-center justify-content-center mx-auto mt-3">
@@ -37,7 +37,7 @@ const Mint6 = () => {
             data-aos-duration="1000"
             md={6}
             lg={3}
-            className="my-3"
+            className="my-3 z_index_10"
           >
             <div className="mint_card1 d-flex flex-column align--items-center  mx-auto">
               <div className="mint_circle1 d-flex align-items-center justify-content-center mx-auto mt-3">
@@ -60,7 +60,7 @@ const Mint6 = () => {
             data-aos-duration="1000"
             md={6}
             lg={3}
-            className="my-3"
+            className="my-3 z_index_10"
           >
             <div className="mint_card1 d-flex flex-column align--items-center  mx-auto">
               <div className="mint_circle1 d-flex align-items-center justify-content-center mx-auto mt-3">
@@ -83,7 +83,7 @@ const Mint6 = () => {
             data-aos-duration="1000"
             md={6}
             lg={3}
-            className="my-3"
+            className="my-3 z_index_10"
           >
             <div className="mint_card1 d-flex flex-column align--items-center  mx-auto">
               <div className="mint_circle1 d-flex align-items-center justify-content-center mx-auto mt-3">
